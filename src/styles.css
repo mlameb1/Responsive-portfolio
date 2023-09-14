@@ -1,5 +1,9 @@
+
+body{margin-top:20px;}
 h1{font-family: "playfair", serif;
-font-size: 40px;}
+font-size: 40px;
+font-weight: bold;}
 p{font-family: "Poppins", sans-serif;
-   font-size: 30px;
+   font-size: px;
+   font-weight:normal;
 }
