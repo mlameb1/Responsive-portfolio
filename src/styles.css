@@ -62,19 +62,26 @@ padding: 15px 30px;
 .content-container h1{font-size: 64px;
 line-height: 80px;}
 
+.content-container h2 h3 p{font-family: var(--other-font);}
+
 .content-container h2{font-size: 18px;
-font-family: var(--other-font);}
+}
+
+
+.content-container h3{font-size:  24px;
+   font-weight: bold;
+   }
+
+.content-container p{font-size: 14px;}
 
 .content {margin: 30px;}
 
 .profile{display: block;
 text-align: center;}
 
-.content h3{font-size:  24px;
-font-family: var(--other-font);
-line-height: 1.5px;}
 
-.content p{font-size: 14px;}
+
+
 
 @media(max-width:900px){
    .project-description{
