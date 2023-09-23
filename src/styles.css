@@ -70,6 +70,11 @@ font-family: var(--other-font);}
 .profile{display: block;
 text-align: center;}
 
+.content h3{font-size:  24px;
+font-family: var(--other-font);
+line-height: 1.5px;}
+
+.content p{font-size: 14px;}
 
 @media(max-width:900px){
    .project-description{
